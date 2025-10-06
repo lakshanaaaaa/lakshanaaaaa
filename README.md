@@ -11,16 +11,16 @@
 <div align="center">
 
 🌸 **B.Tech Computer Science and Business Systems student at KIT, Coimbatore**  
-💻 Passionate about *Full-Stack Development*, *Competitive Programming*, and *Real-world Problem Solving*.  
+ Passionate about *Full-Stack Development*, *Competitive Programming*, and *Real-world Problem Solving*.  
 📈 Solved over **900+ DSA problems** across multiple platforms with consistent contest participation.  
 
 </div>
 
 ---
 
-## ⚙️ Technical Skills
+## Technical Skills
 
-### 💻 Languages
+### Languages
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </p>
 
-### 🎨 Frontend
+###  Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-### ⚙️ Backend & Database
+###  Backend & Database
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
-### ☁️ Cloud & Tools
+### Cloud & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -55,14 +55,14 @@
 
 ---
 
-## 🚀 Currently Building — TapRide  
+##  Currently Building — TapRide  
 A **smart town-bus fare system** enabling **QR-based identification**, **UPI fare payment**, and **digital ticket validation**.  
-- 🚌 **Tech Stack:** React, Firebase, Cloudinary, Firestore, Tailwind CSS  
-- 🎯 **Goal:** Simplify public transport payments with a secure, paperless ticketing model.  
+- **Tech Stack:** React, Firebase, Cloudinary, Firestore, Tailwind CSS  
+- **Goal:** Simplify public transport payments with a secure, paperless ticketing model.  
 
 ---
 
-## 🧠 Competitive Programming Highlights  
+##  Competitive Programming Highlights  
 
 | Platform | Problems Solved | Rating | Contests | Best Rating |
 |:---------:|:----------------:|:------:|:---------:|:-------------:|
@@ -78,7 +78,7 @@ A **smart town-bus fare system** enabling **QR-based identification**, **UPI far
 
 ---
 
-## 🎓 Education  
+##  Education  
 
 **B.Tech – Computer Science and Business Systems**  
 *Kalaignar Karunanidhi Institute of Technology, Coimbatore*  
@@ -87,7 +87,7 @@ A **smart town-bus fare system** enabling **QR-based identification**, **UPI far
 
 ---
 
-## 🏆 GitHub Stats  
+##  GitHub Stats  
 
 <div align="center">
   
@@ -101,14 +101,14 @@ A **smart town-bus fare system** enabling **QR-based identification**, **UPI far
 
 ---
 
-## 💬 Fun Side  
+##  Fun Side  
 
 > ✨ *Design lover. Problem solver. Coffee-fueled night coder.*  
 > I enjoy blending creativity with logic — building, debugging, and designing with calm precision.  
 
 ---
 
-## 📫 Connect with Me  
+##  Connect with Me  
 
 <p align="left">
   <a href="mailto:lakshanasampath916@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
