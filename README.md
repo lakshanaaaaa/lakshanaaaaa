@@ -172,4 +172,4 @@ A <b>smart town-bus fare system</b> enabling <b>QR-based identification</b>,
 *“Code. Create. Iterate. Repeat.”*  
  **From [Lakshana Sampath](https://github.com/lakshanaaaaa)** 🌷
 
-</div>
+</div>  
