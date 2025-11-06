@@ -4,7 +4,7 @@
  
 <img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&duration=3200&pause=1000&color=FADADD&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%7C+Problem+Solver;Building+TapRide+%F0%9F%9A%99;Always+learning+new+technologies+✨" alt="Typing SVG" />
 
----
+--- 
 
 🌸 **B.Tech Computer Science and Business Systems student at KIT, Coimbatore** 🌸
 Passionate about *Full-Stack Development*, *Competitive Programming*, and *Real-world Problem Solving*.  
