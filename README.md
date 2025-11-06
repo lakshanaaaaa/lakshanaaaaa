@@ -1,7 +1,7 @@
 <div align="center" style="background-color:#000000; color:#ffffff; padding:30px; border-radius:20px;">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,15,18&text=Lakshana%20Sampath&fontSize=58&fontAlignY=35&desc=B.Tech%20CSBS%20Student%20%7C%20Tech%20Enthusiast&descAlignY=60&descAlign=50&fontColor=ffffff&animation=fadeIn&stroke=ffffff&strokeWidth=0.4" alt="header"/>
-
+ 
 <img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&duration=3200&pause=1000&color=FADADD&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%7C+Problem+Solver;Building+TapRide+%F0%9F%9A%99;Always+learning+new+technologies+✨" alt="Typing SVG" />
 
 ---
