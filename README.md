@@ -6,7 +6,7 @@
 
 --- 
 
-🌸 **B.Tech Computer Science and Business Systems student at KIT, Coimbatore** 🌸
+🌸 **B.Tech Computer Science and Business Systems student at KIT, Coimbatore** 🌸 
 Passionate about *Full-Stack Development*, *Competitive Programming*, and *Real-world Problem Solving*.  
 📈 Solved over **900+ DSA problems** across multiple platforms 📈 
 <br/><br/>
