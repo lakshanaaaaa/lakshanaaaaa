@@ -10,7 +10,7 @@
 Passionate about *Full-Stack Development*, *Competitive Programming*, and *Real-world Problem Solving*.  
 📈 Solved over **900+ DSA problems** across multiple platforms 📈 
 <br/><br/>
----
+--- 
 
 # Tech Stack
 
