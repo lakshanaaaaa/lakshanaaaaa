@@ -6,91 +6,117 @@
 
 ---
 
-**B.Tech CSBS Student @ KIT, Coimbatore**  
-Full-Stack Developer |  Problem Solver |  Tech Explorer  
+### **B.Tech Computer Science and Business System Student @ KIT, Coimbatore**
+Full-Stack Developer | Problem Solver | Tech Explorer  
 Solved **1100+ DSA Problems** | Consistent & Curious
 
-</div>
+---
+
+## Tech Stack
+<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,nodejs,express,mongodb,firebase,git,github,vscode,googlecloud" height="70"/>
 
 ---
 
-##  Tech Stack
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,tailwind,nodejs,express,mongodb,firebase,git,github,vscode,googlecloud" height="45"/>
-
----
-
-<div align="center">
-
-#  Currently Building — <span style="color:#FADADD;">TapRide</span>
+## Currently Building — <span style="color:#FADADD;">TapRide</span>
 Smart Bus Fare System  
-✔ QR Scan Bus Identification  
-✔ UPI Payment  
-✔ Digital Tickets
+-QR Scan Bus Identification  
+-UPI Payment  
+-Digital Tickets  
+**Tech:** React • Firebase • Tailwind • Cloudinary
 
-Tech: React • Firebase • Tailwind • Cloudinary
+---
+
+<div align="center">
+
+## Competitive Programming
+
+<table>
+<tr>
+<th>Platform</th>
+<th>Problems</th>
+<th>Rating</th>
+<th>Contests</th>
+</tr>
+
+<tr>
+<td>LeetCode</td>
+<td>333</td>
+<td>1733</td>
+<td>32</td>
+</tr>
+
+<tr>
+<td>CodeChef</td>
+<td>558</td>
+<td>1677</td>
+<td>112</td>
+</tr>
+
+<tr>
+<td>HackerRank</td>
+<td>50</td>
+<td>—</td>
+<td>—</td>
+</tr>
+
+<tr>
+<td>GFG</td>
+<td>55</td>
+<td>—</td>
+<td>—</td>
+</tr>
+
+<tr>
+<th>Total</th>
+<th>1123+</th>
+<th>—</th>
+<th>122</th>
+</tr>
+</table>
 
 </div>
 
----
-
-#  Competitive Programming
-
-| Platform | Problems | Rating | Contests |
-|--------|--------|--------|--------|
-| LeetCode | 333 | 1733 | 25 |
-| CodeChef | 530 | 1410 | 97 |
-| HackerRank | 50 | — | — |
-| GFG | 55 | — | — |
-| **Total** | **1123+** | — | **122** |
 
 ---
-
-# GitHub Analytics Dashboard
-
-<!-- 🟣 FULL DASHBOARD LIKE SCREENSHOT -->
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshanaaaaa&theme=github_dark"/>
-</p>
 
 <div align="center">
+
+## GitHub Analytics Dashboard
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshanaaaaa&theme=github_dark"/>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lakshanaaaaa&theme=github_dark"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lakshanaaaaa&theme=github_dark"/>
-<br/>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lakshanaaaaa&theme=github_dark"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lakshanaaaaa&theme=github_dark"/>
-</div>
 
-<!-- 🔥 ACTIVITY GRAPH -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lakshanaaaaa&theme=github-dark)
 
 ---
 
-#  Education
+## Education
 **KIT — Coimbatore**  
 B.Tech — CSBS (2023–2027)  
 CGPA — 7.8 / 10
 
 ---
 
-#  Fun Side
- Design lover  
- Coffee-powered night coder  
- Loves building meaningful things
+## 🎨 Fun Side
+Design Lover • Coffee-powered Night Coder • Loves Building Meaningful Things
 
 ---
 
-#  Connect With Me
-<p align="center">
+## 🤝 Connect With Me
 <a href="mailto:lakshanasampath916@gmail.com"><img src="https://img.icons8.com/fluency/96/gmail.png" width="40"/></a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/lakshana-sampath/"><img src="https://img.icons8.com/color/96/linkedin.png" width="40"/></a>
 &nbsp;&nbsp;
 <a href="https://github.com/lakshanaaaaa"><img src="https://img.icons8.com/glyph-neue/96/ffffff/github.png" width="40"/></a>
-</p>
 
 ---
 
-<div align="center">
 <b>“Code. Create. Iterate. Repeat.”</b><br/>
 🌷 From <a href="https://github.com/lakshanaaaaa">Lakshana Sampath</a>
+
 </div>
