@@ -8,7 +8,7 @@
 
 <br/>
 
-[![](https://img.shields.io/badge/KIT%20Coimbatore-CSE%20'27-f4a7b9?style=for-the-badge&labelColor=f9d5e5&color=e8a0b4)](https://github.com/LakshanaSampath)
+[![](https://img.shields.io/badge/KIT%20Coimbatore-CSBS%20'27-f4a7b9?style=for-the-badge&labelColor=f9d5e5&color=e8a0b4)](https://github.com/LakshanaSampath)
 &nbsp;
 [![](https://img.shields.io/badge/CGPA-8.0%20%2F%2010.0-c9b8d8?style=for-the-badge&labelColor=ede0f5&color=c9b8d8)](https://github.com/LakshanaSampath)
 &nbsp;
@@ -26,7 +26,7 @@
 
 ```ts
 const lakshana = {
-  degree    : "B.E. Computer Science & Engineering, KIT Coimbatore | 2023–2027",
+  degree    : "B.Tech. Computer Science & Business Systems, KIT Coimbatore | 2023–2027",
   cgpa      : "8.0 / 10.0",
   focus     : ["Software Development", "DSA & OOPs", "System Design"],
   projects  : ["Aura_Connect", "AuctionPlatform", "Stude"],
